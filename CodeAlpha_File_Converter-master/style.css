@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: skyblue;
+  
+  }
+  
+ h1{
+  text-align: center;
+ color: white;
+  font-family: sans-serif;
+
+ }
+ 
+  
+  button {
+    height: 50px;
+    width: 120px;
+    border-radius: 15px;
+   
+    margin: 10px auto;
+    background-color: palevioletred;
+    font-size: 20px;
+    color: white;
+  }
+ .container{
+  padding-left: 35%;
+  margin-top: 80px;
+ }
+ .btn{
+ 
+  padding-left: 45%;
+ }
+  
+  
+  .file{
+   
+    height: 140px;
+    border: dashed 4px white;
+   padding-top: 80px;
+   padding-left: 30px;
+    font-size: 20px;
+   
+  }
+  
